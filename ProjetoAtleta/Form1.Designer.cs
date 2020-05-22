@@ -126,7 +126,7 @@
             this.btnEnviar.Name = "btnEnviar";
             this.btnEnviar.Size = new System.Drawing.Size(123, 32);
             this.btnEnviar.TabIndex = 9;
-            this.btnEnviar.Text = "Enviar";
+            this.btnEnviar.Text = "Enviar Dados";
             this.btnEnviar.UseVisualStyleBackColor = true;
             this.btnEnviar.Click += new System.EventHandler(this.btnEnviar_Click);
             // 
